@@ -3,8 +3,8 @@ Here, I show the basic pipleline to analyse single cell data.
 
 This analysis contains downsampling, standard preprocessing, dimensional reduction, clustering, and identification of cell types.
 
-To see more detail in data source, please refer to the reference below.
-Clark BS. Neuron. 2019 Jun 19;102(6):1111-1126.e5.
+To see more detail in data source, please refer to the reference below.   
+Clark BS. Neuron. 2019 Jun 19;102(6):1111-1126.e5.   
 
 This is the R script   
 [Clark_P2_Retina.ipynb](./Clark_P2_Retina.ipynb)
