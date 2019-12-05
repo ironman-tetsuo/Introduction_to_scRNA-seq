@@ -9,7 +9,9 @@ Clark BS. Neuron. 2019 Jun 19;102(6):1111-1126.e5.
 This is the R script   
 [Clark_P2_Retina.ipynb](./Clark_P2_Retina.ipynb)   
 
-This is the thre dimesntional UMAP. Please download this file and save locally and open it.
+This is the thre dimesntional UMAP. Please download this file and save locally and open it.   
+This file enables interactive view of 3d UMAP.   
 [plot_cell_types.html](./plot_cell_types.html)    
 
+This is a gif image of 3d UMAP    
 <img src="./plot_cell_types.gif" width="600">
