@@ -9,4 +9,5 @@ Clark BS. Neuron. 2019 Jun 19;102(6):1111-1126.e5.
 This is the R script   
 [Clark_P2_Retina.ipynb](./Clark_P2_Retina.ipynb)   
 
+This is the thre dimesntional UMAP. Please download this file and save locally and open it.
 [plot_cell_types.html](./plot_cell_types.html)    
