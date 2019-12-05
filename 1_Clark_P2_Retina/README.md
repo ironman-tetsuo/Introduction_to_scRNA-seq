@@ -12,4 +12,6 @@ This is the R script
 This is the thre dimesntional UMAP. Please download this file and save locally and open it.
 [plot_cell_types.html](./plot_cell_types.html)    
 
+<img src="./plot_cell_types.gif" width="800">
+
 ![plot_cell_types.gif](./plot_cell_types.gif)
