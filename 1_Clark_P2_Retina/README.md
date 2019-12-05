@@ -7,4 +7,6 @@ To see more detail in data source, please refer to the reference below.
 Clark BS. Neuron. 2019 Jun 19;102(6):1111-1126.e5.   
 
 This is the R script   
-[Clark_P2_Retina.ipynb](./Clark_P2_Retina.ipynb)
+[Clark_P2_Retina.ipynb](./Clark_P2_Retina.ipynb)   
+
+[plot_cell_types.html](./plot_cell_types.html)    
