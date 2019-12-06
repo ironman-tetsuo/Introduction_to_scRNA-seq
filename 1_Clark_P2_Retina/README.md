@@ -24,4 +24,5 @@ To plot umap with any gene expression, I use the following script
 [plot_umap.ipynb](./plot_umap.ipynb)   
 
 Cell cycle analysis was performed here    
-[Cell_cycle.ipnb](./Cell_cycle.ipnb)
+[Cell_cycle.ipynb](./Cell_cycle.ipynb)   
+
