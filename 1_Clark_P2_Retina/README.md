@@ -19,3 +19,6 @@ This is a gif image of 3d UMAP
 
 For easy UMAP visualization, I extract subset of information using the script below   
 [Extract_information_for_UMAP_visualization.ipynb](./Extract_information_for_UMAP_visualization.ipynb)   
+
+To plot umap with any gene expression, I use the following script   
+[plot_umap.ipynb](./plot_umap.ipynb)   
