@@ -16,3 +16,6 @@ This file enables interactive view of 3d UMAP.
 
 This is a gif image of 3d UMAP    
 <img src="./plot_cell_types.gif" width="600">
+
+For easy UMAP visualization, I extract subset of information using the script below   
+[Extract_information_for_UMAP_visualization.ipynb](./Extract_information_for_UMAP_visualization.ipynb)   
