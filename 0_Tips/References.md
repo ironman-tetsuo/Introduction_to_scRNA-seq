@@ -17,7 +17,7 @@ Nat Protoc. 2018 Apr;13(4):599-604. [doi: 10.1038/nprot.2017.149](https://doi.or
 
 Disentangling neural cell diversity using single-cell transcriptomics.   
 Poulin JF, et al.   
-Nat Neurosci. 2016 Aug 26;19(9):1131-41. [doi: 10.1038/nn.4366](https//doi.org/10.1038/nn.4366)   
+Nat Neurosci. 2016 Aug 26;19(9):1131-41. [doi: 10.1038/nn.4366](https://doi.org/10.1038/nn.4366)   
 
 
 
