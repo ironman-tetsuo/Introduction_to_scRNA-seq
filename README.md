@@ -1,5 +1,5 @@
 # Tips for scRNA-seq analysis   
-* [0_Tips](./0_Tips/README.md)   
+* [References](./0_Tips/References.md)   
 
 
 # Introduction_to_scRNA-seq   
