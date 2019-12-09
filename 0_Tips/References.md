@@ -1,5 +1,5 @@
 # Reviews   
-Single-Cell Capture, RNA-seq, and Transcriptome Analysis from the Neural Retina.
+Single-Cell Capture, RNA-seq, and Transcriptome Analysis from the Neural Retina.   
 Methods Mol Biol. 2020;2092:159-186. [doi: 10.1007/978-1-0716-0175-4_12](https://doi.org/10.1007/978-1-0716-0175-4_12)   
 Dharmat R   
 
